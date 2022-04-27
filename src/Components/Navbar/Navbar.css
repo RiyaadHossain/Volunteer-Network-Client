@@ -1,0 +1,17 @@
+.link{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 22px;
+}
+.active-link{
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 22px;
+    color: rgb(63, 144, 252);
+}
+.nav-btn{
+    background: rgb(63, 144, 252);
+    color: white;
+    padding: 6px 20px;
+    border-radius: 5px;
+}
